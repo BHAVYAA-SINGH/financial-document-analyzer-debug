@@ -140,6 +140,18 @@ Structured JSON Output
 
 # API Documentation
 
+<img width="1890" height="957" alt="Screenshot 2026-02-27 163535" src="https://github.com/user-attachments/assets/1393a49f-8af5-48ae-a12f-6706609c457f" />
+
+
+<img width="1806" height="960" alt="Screenshot 2026-02-27 163612" src="https://github.com/user-attachments/assets/66fa1ee6-0092-42a4-acb5-5834e06e8db6" />
+
+<img width="1795" height="924" alt="Screenshot 2026-02-27 163958" src="https://github.com/user-attachments/assets/a913584e-4b81-495b-b1b3-9ecc96cb5e8b" />
+
+
+<img width="1787" height="935" alt="Screenshot 2026-02-27 164314" src="https://github.com/user-attachments/assets/731b8e3d-03ed-4d37-b1dd-434df101e7cc" />
+
+
+
 #  Error Analysis & Production Fixes
 
 This section documents the major technical, behavioral, and infrastructure-level issues identified during development — along with their final resolutions.
